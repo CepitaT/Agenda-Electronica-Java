@@ -8,4 +8,5 @@ Los pasos a seguir son
 1. Llenar cada uno de los campos correspondientes vacios
 2. Guardar antes de avanzar con la siguiente persona.
 
-A tener en cuenta que si el campo completado no es guardado la informacion se va a perder, solamente nos mostrara los datos una vez guardado en x posicion del vector que hayamos puestos en este caso entre la fila del 0 al 9
+A tener en cuenta que si el campo completado no es guardado la informacion se va a perder.
+Solamente nos mostrara los datos una vez guardado en x posicion del vector que hayamos puestos en este caso entre la fila del 0 al 9
